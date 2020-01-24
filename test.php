@@ -1,5 +1,3 @@
 <?php
 
-$var = "This is a test";
-
-$new_feature = "Added this new feature ...";
+$better_branch = "We made some big changes here ... This seems like the right way to go";
